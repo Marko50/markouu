@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="pes.js"></script>
+    <link rel="stylesheet" href="font.css">
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="cab.css">
+    <title>Marko Villaizan</title>
+  </head>
+  <body bgcolor="#bbd5ff" text="white">
+  <main class="main">
+
+         <H1 style=font-family:arial align="center" >MI PRIMERA PAGINA WEB</H1><p style="font-family:arial" align="center">Bienvenido
+                      a mi pagina, soy <b>Marko Villaizán</b> curso la carrera de <b>Ingeniería de Sistemas</b>
+                      en USIL y esta es mi primera pagina web en <b>HTML</b><br>del lado derecho hay una barra desplagable de mis redes sociales y un playlist para tu agrado</p>
+<p align="center"><img src="https://images7.memedroid.com/images/UPLOADED484/615251c05cbf0.jpeg" alt="ERROR" mwidth="300" height="500"></p>
+         <H1 style=font-family:arial align="center" >Presentación</H1><p style="font-family:arial" align="justify">Mi nombre es Marko Antonio Villaizán Caso, nací el 21 de febrero del 2003 en Tarma, Junín donde estudié mi primaria y parte de mi secundaria, Hice muchos amigos que hasta ahora les tengo mucho aprecio y hablamos constantemente. Hace 2 años vivo en Lima con mis padres y con mi hermana Alexandra además de  mi perro Poly.
+Lo que más quiero en la vida es poder vivir tranquilo, con un buen trabajo y que no me falte nada a mi y a mi familia.
+Soy una persona con mucha confianza con un buen caracter, me gustan muchas cosas, practico muchos deportes y me considero bueno en cada uno de ellos, me gusta casi todos los géneros de música pero más el rap, el rock y el reggaeton.
+Físicamente soy un chico normal de 1.75 de contextura delgada cabello negro y ondulado. Me gusta la tecnologia y com funcionan las cosas, aprendí a programar hace un año y hoy en día me gusta mucho programar y crear cosas mediante la tecnologia.
+Cada día intento aprender una cosa nueva, ser mejor persona y tener mejores hábitos para ser mejor.</p>
+
+         <H1 style=font-family:arial align="center" >Contáctame</H1><p ><H1 style="font-family:arial" align="center">WHATS-APP</H1>
+          <H1>+51 999999999</H1>
+  <a href="https://www.facebook.com/marko.villaizan.1"  target="_blank"> MI facebook2</a>
+  <a href="https://twitter.com/marko_630" target="_blank"> MI TWITTER</a>
+  <a href="https://www.instagram.com/m_arko10/" target="_blank">MI INSTAGRAM</a>
+  <a href="https://music.apple.com/pe/playlist/bad-pa-llorar/pl.u-DdAN853s0ekx5x4" target="_blank">UNA PLAYLIST DE APPLE MUSIC</a></div>
+
+    <footer class="footer">
+     <div class="container">
+       <p>Pagina diseñada por Marko</p>
+     </div>
+    </footer>
+  </main>
+  </body>
+</html>
